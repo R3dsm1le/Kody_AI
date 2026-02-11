@@ -4,10 +4,14 @@
 <img width="1000" height="250" alt="Kody_icon" src="https://github.com/user-attachments/assets/546b3185-9a7e-4f2a-8cdd-408a83310580" />
 
 
+<div align="center">
+
 ![BUILD](https://img.shields.io/badge/BUILD-PASSING-brightgreen?style=flat-square)
 ![RELEASE](https://img.shields.io/badge/RELEASE-v1.0.0-blue?style=flat-square)
 ![PYTHON](https://img.shields.io/badge/PYTHON-3.8%2B-blue?style=flat-square)
 ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue?style=flat-square)
+
+</div>
 
 **REPL con IA usando Le Mistral API**
 
