@@ -1,4 +1,4 @@
-# 🤖 Kody - Asistente Interactivo de Limpieza de Datos
+#  Kody - Asistente Interactivo de Limpieza de Datos
 
 ![BUILD](https://img.shields.io/badge/BUILD-PASSING-brightgreen?style=flat-square)
 ![RELEASE](https://img.shields.io/badge/RELEASE-v1.0.0-blue?style=flat-square)
