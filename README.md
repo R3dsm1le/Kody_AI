@@ -38,9 +38,20 @@
 git clone https://github.com/tuusuario/kody.git
 cd kody
 
+# Crear entorno virtual
+python -m venv venv
+
+# Activar entorno virtual
+# En Windows:
+venv\Scripts\activate
+# En Linux/Mac:
+source venv/bin/activate
+
 # Instalar dependencias
 pip install -r requirements.txt
 
 # Configurar tu API key
 export MISTRAL_API_KEY='tu-clave-api-aqui'
 ```
+<img width="802" height="815" alt="Kody_AI" src="https://github.com/user-attachments/assets/cd70338c-efbe-4a58-bc6b-2558c5e9aa5e" />
+
