@@ -19,7 +19,7 @@
 
 ## ✨ Características
 
-* **Interfaz REPL interactiva** — trabaja con tus datos de forma conversacional
+* **Interfaz REPL interactiva** — trabaja con tus datos de forma dinámica
 * **Integración con Le Mistral API** — aprovecha modelos de IA avanzados para procesamiento de datos
 * **Limpieza inteligente de datos** — detecta y corrige problemas comunes en conjuntos de datos
 * **Fácil de usar** — comandos simples y respuestas claras
